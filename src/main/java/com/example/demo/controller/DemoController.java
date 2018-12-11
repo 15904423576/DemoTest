@@ -30,6 +30,8 @@ public class DemoController {
         System.out.println(name);
         System.out.println(age);
         list.add(name);
+        System.out.println("nihao");
+
 //        list.add(jj.toString());
         return list;
     }
