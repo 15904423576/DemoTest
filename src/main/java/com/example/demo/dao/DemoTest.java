@@ -19,6 +19,9 @@ public class DemoTest {
 //        String s = StringUtils.trimToNull("  ");
 //        if(StringUtils.isBlank(s)){
 //            System.out.println("hui");
+           System.out.println("hui");
+
+
 //        }
 
 //        String s = "aadfffdfxx";
