@@ -11,8 +11,6 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("ddd");
-
 	}
 
 }
