@@ -28,7 +28,7 @@ public class DemoController {
     @PostMapping ("/method")
     public List<String> method( String name, String age){
         List<String> list = demoServic.method();
-        //git
+        //git  shisme
         System.out.println(name);
         System.out.println(age);
         list.add(name);
