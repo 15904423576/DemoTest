@@ -29,6 +29,7 @@ public class DemoController {
     public List<String> method( String name, String age){
         List<String> list = demoServic.method();
         //git  shisme
+        int b;
         System.out.println(name);
         System.out.println(age);
         list.add(name);
