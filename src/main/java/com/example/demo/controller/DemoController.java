@@ -11,7 +11,6 @@ import java.util.List;
  *@Author: 胡剑雄
  *@Date: 2018-12-10 15:07
  */
-
 @RestController
 @RequestMapping("/demo")
 public class DemoController {
@@ -28,7 +27,11 @@ public class DemoController {
     @PostMapping ("/method")
     public List<String> method( String name, String age){
         List<String> list = demoServic.method();
+
+        int a;
         System.out.println(name);
+        //gaibian
+        //gaiagigai
         System.out.println(age);
         list.add(name);
         System.out.println("nihao");
