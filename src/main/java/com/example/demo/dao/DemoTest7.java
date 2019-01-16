@@ -72,7 +72,7 @@ public class DemoTest7 {
 //        list.stream().filter(e -> e != 1).forEach(e->System.out.println(e));
 
 
-
+        System.out.println("qih");
 
 
     }
