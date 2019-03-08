@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class DemoServicImpl implements DemoServic{
+public class DemoServicImpl implements DemoServic {
 
     @Autowired
     //private DemoDao dao;

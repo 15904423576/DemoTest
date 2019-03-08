@@ -1,0 +1,12 @@
+person:
+  name: xiao#{}
+  age: 3
+  birth: 2000-01-01
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+
+
+
