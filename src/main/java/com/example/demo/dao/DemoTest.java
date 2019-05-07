@@ -304,6 +304,7 @@ public class DemoTest {
 
         }, 1000, 2000, TimeUnit.MILLISECONDS);
 
+        System.out.println("huituicheshi");
     }
 }
 
@@ -311,6 +312,5 @@ public class DemoTest {
 interface ddd {
 
     void method1(int a);
-
 
 }
