@@ -2,11 +2,18 @@ person:
   name: xiao#{}
   age: 3
   birth: 2000-01-01
-spring:
-  mvc:
-    view:
-      prefix: /
-      suffix: .html
+#spring:
+#  mvc:
+#    view:
+#      prefix: /
+#      suffix: .html
+
+
+#pagehelper:
+#  params: count=countSql
+#  reasenable: true
+#  support-methods-arguments: true
+#  helper-dialect: mysql
 
 
 

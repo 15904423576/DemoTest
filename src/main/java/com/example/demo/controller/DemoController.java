@@ -26,7 +26,7 @@ public class DemoController {
      * @param age 年龄
      * @return list 返回一个记录数据的list
      */
-    @GetMapping("/method")
+    @PostMapping("/method")
     public List<String> method(String name, String age) {
         List<String> list = demoServic.method();
 
@@ -45,5 +45,9 @@ public class DemoController {
         return list;
     }
 
+    @PostMapping("rr")
+    public void mdd(Integer[] ids){
+        System.out.println(ids);
+    }
 
 }
