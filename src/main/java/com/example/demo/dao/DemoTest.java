@@ -299,6 +299,7 @@ public class DemoTest {
             public void run() {
 
                 System.out.println(System.nanoTime());
+                System.out.println(55);
                 System.out.println(22);
                 System.out.println(44);
             }
