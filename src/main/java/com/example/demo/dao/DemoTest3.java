@@ -22,7 +22,6 @@ public class DemoTest3 {
             list.add(value.getExchange());
         }
         list.forEach(e -> System.out.println(e));
-        System.out.println("22");
     }
 
     @Test
