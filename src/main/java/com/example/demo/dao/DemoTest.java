@@ -303,8 +303,10 @@ public class DemoTest {
             }
 
         }, 1000, 2000, TimeUnit.MILLISECONDS);
-        System.out.println("33");
-        System.out.println("11");
+
+        System.out.println("huituicheshi");
+        System.out.println("huituicheshi1");
+
     }
 }
 
