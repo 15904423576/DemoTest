@@ -300,8 +300,8 @@ public class DemoTest {
 
                 System.out.println(System.nanoTime());
 
+                System.out.println("11");
             }
-
         }, 1000, 2000, TimeUnit.MILLISECONDS);
 
         System.out.println("huituicheshi");
