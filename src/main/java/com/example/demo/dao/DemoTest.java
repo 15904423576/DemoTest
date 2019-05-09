@@ -299,7 +299,7 @@ public class DemoTest {
             public void run() {
 
                 System.out.println(System.nanoTime());
-System.out.println();
+
             }
 
         }, 1000, 2000, TimeUnit.MILLISECONDS);
